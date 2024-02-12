@@ -18,11 +18,8 @@ For our analysis, we got a dataset contains 3039 rows each row consists of 17 in
 •	Feature selection.
 
 # Regression Techniques
-• Linear Regression:
-![image](https://github.com/heba411/Movie-Popularity-Prediction-/assets/84358388/30a7801a-e6fd-4078-b26f-303f9d68b4cb)
-
-• Polynomial Regression:
-![image](https://github.com/heba411/Movie-Popularity-Prediction-/assets/84358388/d015472f-adae-4f8f-a27c-2b4573c044b5)
+• Linear Regression.
+• Polynomial Regression.
 
 # Classification Techniques
 •	Logistic regression.
